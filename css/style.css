@@ -363,7 +363,7 @@ tbody {
 	box-shadow: 0px 0px 10px #cacaca;;
 }
 .pattern-1 { 
-	background-image: url("../pattern-1.png");
+	background-image: url("../images/pattern-1.png");
 	background-repeat: repeat;
 	background-position: 0 0; 
 }
@@ -377,42 +377,42 @@ tbody {
 	box-shadow: none;
 }
 .pattern-2 { 
-	background-image: url("../pattern-2.png");
+	background-image: url("../images/pattern-2.png");
 	background-repeat: repeat;
 	background-position: 0 0; 
 }
 .pattern-3 { 
-	background-image: url("../pattern-3.png");
+	background-image: url("../images/pattern-3.png");
 	background-repeat: repeat;
 	background-position: 0 0; 
 }
 .pattern-4 { 
-	background-image: url("../pattern-4.png");
+	background-image: url("../images/pattern-4.png");
 	background-repeat: repeat;
 	background-position: 0 0; 
 }
 .pattern-5 { 
-	background-image: url("../pattern-5.png");
+	background-image: url("../images/pattern-5.png");
 	background-repeat: repeat;
 	background-position: 0 0; 
 }
 .pattern-6 { 
-	background-image: url("../pattern-6.png");
+	background-image: url("../images/pattern-6.png");
 	background-repeat: repeat;
 	background-position: 0 0; 
 }
 .pattern-7 { 
-	background-image: url("../pattern-7.png");
+	background-image: url("../images/pattern-7.png");
 	background-repeat: repeat;
 	background-position: 0 0; 
 }
 .pattern-8 { 
-	background-image: url("../pattern-8.png");
+	background-image: url("../images/pattern-8.png");
 	background-repeat: repeat;
 	background-position: 0 0; 
 }
 .pattern-9 { 
-	background-image: url("../pattern-9.png");
+	background-image: url("../images/pattern-9.png");
 	background-repeat: repeat;
 	background-position: 0 0; 
 }
@@ -659,13 +659,13 @@ tbody {
 	position: relative;
 }
 .parallax-bg {
-	background: url("../parallax-bg.jpg") 50% 0px no-repeat;
+	background: url("../images/parallax-bg.jpg") 50% 0px no-repeat;
 }
 .parallax-bg-2 {
-	background: url("../parallax-bg-2.jpg") 50% 0px no-repeat;
+	background: url("../images/parallax-bg-2.jpg") 50% 0px no-repeat;
 }
 .parallax-bg-3 {
-	background: url("../570c635a40a77.jpg") 50% 0px no-repeat;
+	background: url("../images/570c635a40a77.jpg") 50% 0px no-repeat;
 }
 
 /* Custom Grid
@@ -1616,7 +1616,7 @@ tbody {
 /* Coming Soon Page
 ---------------------------------- */
 .coming-soon-bg {
-	background: url("../coming-soon-bg.jpg") 50% 0px no-repeat;
+	background: url("../images/coming-soon-bg.jpg") 50% 0px no-repeat;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -3886,34 +3886,34 @@ a.overlay.small i {
 	text-align: center;
 }
 .box-style-1 .w1_item a{
-	background-image:url(../w2.png);
+	background-image:url(../images/w2.png);
 	width:100px;
 	height:100px;
 	display:block;
 	margin:0 auto;
 }
 .box-style-1 .w1_item a:hover{
-	background-image:url(../w2_1.png);
+	background-image:url(../images/w2_1.png);
 }
 .box-style-1 .w2_item a{
-	background-image:url(../w1.png);
+	background-image:url(../images/w1.png);
 	width:100px;
 	height:100px;
 	display:block;
 	margin:0 auto;
 }
 .box-style-1 .w2_item a:hover{
-	background-image:url(../w1_1.png);
+	background-image:url(../images/w1_1.png);
 }
 .box-style-1 .w3_item a{
-	background-image:url(../w3.png);
+	background-image:url(../images/w3.png);
 	width:100px;
 	height:100px;
 	display:block;
 	margin:0 auto;
 }
 .box-style-1 .w3_item a:hover{
-	background-image:url(../w3_1.png);
+	background-image:url(../images/w3_1.png);
 }
 .box-style-1:not(.team-member):hover i {
 	color: #e84c3d;
@@ -4899,7 +4899,7 @@ ul.tweets li span {
 	display: none;
 }
 .tp-loader.spinner0 {
-	background: url("../loader.gif") no-repeat center center;
+	background: url("../images/loader.gif") no-repeat center center;
 	box-shadow: none;
 	-webkit-box-shadow: none;
 	-webkit-animation: none;
