@@ -27,7 +27,7 @@ html {
 	height: 100%;
 }
 body {
-	font-family:"å¾®è½¯é›…é»‘";
+	font-family:"微软雅黑";
 	font-size: 15px;
 	line-height: 1.50;
 	color: #666666;
@@ -127,7 +127,7 @@ blockquote {
 	margin-left: 40px;
 }
 blockquote:after {
-	content: "â€œ";
+	content: "“";
 	width: 25px;
 	height: 25px;
 	line-height: 64px;
@@ -139,7 +139,7 @@ blockquote:after {
 }
 .blockquote:before {
 	font-family: 'PT Serif', serif;
-	content: "â€œ";
+	content: "“";
 	font-size: 40px;
 }
 blockquote.inline {

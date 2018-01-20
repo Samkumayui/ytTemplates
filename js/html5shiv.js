@@ -40,7 +40,7 @@
 			var c, d = a;
 			c = d.createElement("p");
 			d = d.getElementsByTagName("head")[0] || d.documentElement;
-			c.innerHTML = "x<style>article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}mark{background:#FF0;color:#000}template.js{display:none}</style>";
+			c.innerHTML = "x<style>article,aside,dialog,figcaption,figure,footer,header,hgroup,main,nav,section{display:block}mark{background:#FF0;color:#000}template{display:none}</style>";
 			c = d.insertBefore(c.lastChild, d.firstChild);
 			b.hasCSS = !!c
 		}
@@ -72,7 +72,7 @@
 		}
 	})();
 	var e = {
-		elements: k.elements || "abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output progress section summary template.js time video",
+		elements: k.elements || "abbr article aside audio bdi canvas data datalist details dialog figcaption figure footer header hgroup main mark meter nav output progress section summary template time video",
 		version: "3.7.0",
 		shivCSS: !1 !== k.shivCSS,
 		supportsUnknownElements: g,
